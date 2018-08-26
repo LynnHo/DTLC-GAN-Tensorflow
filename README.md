@@ -47,3 +47,11 @@ Generative Adversarial Image Synthesis with Decision Tree Latent Controller](htt
         - ***list_attr_celeba.txt***
             - https://pan.baidu.com/s/1eSNpdRG#list/path=%2FCelebA%2FAnno&parentPath=%2F or
             - https://drive.google.com/drive/folders/0B7EVK8r0v71pOC0wOVZlQnFfaGs
+
+## Exemplar Results
+
+1. Eyeglasses, 3 layers
+<p align="center"> <img src="pics\eyeglasses.png"> </p>
+
+2. Bangs, 3 layers
+<p align="center"> <img src="pics\bangs.png"> </p>

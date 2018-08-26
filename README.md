@@ -1,6 +1,6 @@
 # <p align="center"> DTLC-GAN </p>
 
-Tensorflow implementation of [DTLC-GAN:
+Tensorflow implementation of [DTLC-GAN (CVPR 2018):
 Generative Adversarial Image Synthesis with Decision Tree Latent Controller](https://arxiv.org/abs/1805.10603).
 
 ## Usage
